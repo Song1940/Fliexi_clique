@@ -1,4 +1,4 @@
-# Flexi-clique
+# Flexi-clique
 This is the implementation of flexi-clique, which is described in the following papaer:
 - Flexi-clique: Exploring Flexible and Sub-linear Clique Structures
 
