@@ -6,11 +6,11 @@ This is the implementation of flexi-clique, which is described in the following 
 ### A simple description for finding flexi-clique and some experiments are as follows:
 
 ### Peeling algorithm for the flexi-clique
-[command for the tree type is in ()]
 - Input parameters
-  - Path of the hypergraph data
+  - Path of the graph data
   - $\tau$
--Then the size of the flexi-clique and nodes containted in are saved.  
+    
+- Then the size of the flexi-clique and nodes containted in are saved.  
 Example code for the index construction is below
 ```
 python flexi_clique.py --file_path amazon.txt --tau 0.5
