@@ -7,7 +7,7 @@ This is the implementation of flexi-clique, which is described in the following 
 
 ### Peeling algorithm for the flexi-clique
 - Input parameters
-  - Path of the graph data
+  - Path of the graph data
   - $\tau$
     
 - Then the size of the flexi-clique and nodes containted in are saved.  
