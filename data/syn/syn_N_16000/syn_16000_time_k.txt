@@ -1,0 +1,4 @@
+tau: 0.2 execution time: 5.7537126541137695 size : 15957
+tau: 0.4 execution time: 1118.2697381973267 size : 2005
+tau: 0.6 execution time: 1116.7590289115906 size : 289
+tau: 0.8 execution time: 1123.0042672157288 size : 72

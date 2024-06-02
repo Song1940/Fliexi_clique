@@ -1,0 +1,9 @@
+tau: 0.1 execution time: 0.08698415756225586
+tau: 0.2 execution time: 0.12523245811462402
+tau: 0.3 execution time: 38.063040256500244
+tau: 0.4 execution time: 52.1977858543396
+tau: 0.5 execution time: 55.4480504989624
+tau: 0.6 execution time: 56.01819682121277
+tau: 0.7 execution time: 56.278180837631226
+tau: 0.8 execution time: 56.279152154922485
+tau: 0.9 execution time: 56.11289405822754
